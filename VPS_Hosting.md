@@ -104,3 +104,9 @@ Login to GitHub
 ```bash
 gh auth login
 ```
+
+## Setup NGINX
+
+## Backend Hosting
+
+## Frontend Hosting
