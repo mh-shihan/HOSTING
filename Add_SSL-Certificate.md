@@ -16,4 +16,6 @@ Run the following command, replacing `<your-domain>` with your actual domain nam
 sudo certbot --nginx -d api.mywebsite.com -d www.api.mywebsite.com
 ```
 
+```bash
 sudo certbot --nginx -d api.peerresearchlab.com -d www.api.peerresearchlab.com
+```
