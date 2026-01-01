@@ -22,7 +22,7 @@ To check the environment file
 
 server {
     listen 80;
-    root /root/usr/src/peer-research-lab/       peerResarchLabClient/dist;
+    root /root/usr/src/peer-research-lab/peerResarchLabClient/dist;
 
     location / {
         try_files $uri $uri/ =404;
