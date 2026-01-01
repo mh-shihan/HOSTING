@@ -73,6 +73,9 @@ Inside NGINX configuration directory: Go to Sites-Available folder and create a 
 
 ```bash
 cd /etc/nginx/sites-available
+```
+
+```bash
 nano my-backend-app.com.conf
 ```
 
