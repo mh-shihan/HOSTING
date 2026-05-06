@@ -94,6 +94,10 @@ server {
 }
 ```
 
+### 8. Enable the NGINX configuration
+
+Go to sites-enabled folder and create a symbolic link to the configuration file you just created in sites-available:
+
 ```bash
 ln -s ../sites-available/api.peerresearchlab.com.conf
 ```
