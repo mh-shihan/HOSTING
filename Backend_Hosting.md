@@ -102,7 +102,7 @@ server {
 Go to sites-enabled folder and create a symbolic link to the configuration file you just created in sites-available:
 
 ```bash
-ln -s ../sites-available/api.peerresearchlab.com.conf
+sudo ln -s /etc/nginx/sites-available/project2 /etc/nginx/sites-enabled/
 ```
 
 Restart NGINX to apply the changes:
